@@ -74,7 +74,7 @@ export function CustomDropdown({
             <div
             className={cn(
                 "absolute z-50 w-full mt-2 py-1",
-                "bg-cmpt_popover border border-cmpt_border rounded-cmpt_md shadow-xl",
+                "bg-black border border-cmpt_border rounded-cmpt_md shadow-xl",
                 "animate-slide-down"
             )}
             >
